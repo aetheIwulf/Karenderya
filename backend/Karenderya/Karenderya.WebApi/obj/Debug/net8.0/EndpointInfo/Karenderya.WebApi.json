@@ -46,7 +46,7 @@
         }
       }
     },
-    "/api/MenuItem/{id}": {
+    "/api/MenuItem/(id)": {
       "get": {
         "tags": [
           "MenuItem"
@@ -54,8 +54,7 @@
         "parameters": [
           {
             "name": "Id",
-            "in": "path",
-            "required": true,
+            "in": "query",
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -75,8 +74,7 @@
         "parameters": [
           {
             "name": "Id",
-            "in": "path",
-            "required": true,
+            "in": "query",
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -115,8 +113,7 @@
         "parameters": [
           {
             "name": "Id",
-            "in": "path",
-            "required": true,
+            "in": "query",
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -171,7 +168,7 @@
         }
       }
     },
-    "/api/Order/{id}": {
+    "/api/Order/(id)": {
       "get": {
         "tags": [
           "Order"
@@ -179,8 +176,7 @@
         "parameters": [
           {
             "name": "Id",
-            "in": "path",
-            "required": true,
+            "in": "query",
             "schema": {
               "type": "integer",
               "format": "int32"
@@ -235,7 +231,7 @@
         }
       }
     },
-    "/api/OrderItem/{id}": {
+    "/api/OrderItem/(id)": {
       "get": {
         "tags": [
           "OrderItem"
@@ -243,8 +239,7 @@
         "parameters": [
           {
             "name": "Id",
-            "in": "path",
-            "required": true,
+            "in": "query",
             "schema": {
               "type": "integer",
               "format": "int32"

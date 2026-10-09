@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Karenderya.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7af3e949bddb25a94a89e0bcc780fa264ae5ba65")]
 [assembly: System.Reflection.AssemblyProductAttribute("Karenderya.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Karenderya.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

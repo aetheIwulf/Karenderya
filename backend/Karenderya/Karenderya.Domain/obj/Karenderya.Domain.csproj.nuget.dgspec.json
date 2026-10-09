@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\Karenderya.Domain.csproj": {}
+    "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\Karenderya.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\Karenderya.Domain.csproj": {
+    "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\Karenderya.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\Karenderya.Domain.csproj",
+        "projectUniqueName": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\Karenderya.Domain.csproj",
         "projectName": "Karenderya.Domain",
-        "projectPath": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\Karenderya.Domain.csproj",
+        "projectPath": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\Karenderya.Domain.csproj",
         "packagesPath": "C:\\Users\\Kiko Pc\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\obj\\",
+        "outputPath": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

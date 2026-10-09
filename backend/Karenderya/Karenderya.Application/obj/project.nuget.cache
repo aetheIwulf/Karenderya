@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ix4AM0b2W0Q=",
+  "dgSpecHash": "NIKiG+sNSag=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Application\\Karenderya.Application.csproj",
+  "projectFilePath": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.Application\\Karenderya.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kiko Pc\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
     "C:\\Users\\Kiko Pc\\.nuget\\packages\\azure.identity\\1.12.1\\azure.identity.1.12.1.nupkg.sha512",

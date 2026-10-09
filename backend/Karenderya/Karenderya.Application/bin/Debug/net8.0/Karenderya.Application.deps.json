@@ -10,7 +10,6 @@
         "dependencies": {
           "BCrypt.Net-Next": "4.2.0",
           "Karenderya.Domain": "1.0.0",
-          "Karenderya.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.31",
           "Microsoft.EntityFrameworkCore": "8.0.31",
           "Microsoft.EntityFrameworkCore.Design": "8.0.31",
@@ -816,19 +815,6 @@
             "fileVersion": "1.0.0.0"
           }
         }
-      },
-      "Karenderya.Infrastructure/1.0.0": {
-        "dependencies": {
-          "Karenderya.Domain": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "8.0.31",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.31"
-        },
-        "runtime": {
-          "Karenderya.Infrastructure.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -1196,11 +1182,6 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "Karenderya.Domain/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Karenderya.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

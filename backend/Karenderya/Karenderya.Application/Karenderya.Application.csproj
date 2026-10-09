@@ -23,7 +23,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Karenderya.Domain\Karenderya.Domain.csproj" />
-    <ProjectReference Include="..\Karenderya.Infrastructure\Karenderya.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

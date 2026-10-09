@@ -21,7 +21,7 @@ namespace Karenderya.WebApi.Controllers
             return Ok(result);
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("(id)")]
         public async Task<IActionResult> GetById(int Id)
         {
             var result = await _service.GetByIdAsync(Id);
@@ -35,7 +35,7 @@ namespace Karenderya.WebApi.Controllers
             return Ok(result);
         }
 
-        [HttpPut("{id}")]
+        [HttpPut("(id)")]
         public async Task<IActionResult> Update(int Id, MenuItem menuItem)
         {
             int existing = await _service.UpdateAsync(Id, menuItem);
@@ -46,7 +46,7 @@ namespace Karenderya.WebApi.Controllers
             return NoContent();
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("(id)")]
         public async Task<IActionResult> Delete(int Id)
         {
             int existing = await _service.DeleteAsync(Id);

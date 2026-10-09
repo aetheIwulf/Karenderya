@@ -859,7 +859,6 @@
         "dependencies": {
           "BCrypt.Net-Next": "4.2.0",
           "Karenderya.Domain": "1.0.0",
-          "Karenderya.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.Authentication.JwtBearer": "8.0.31",
           "Microsoft.EntityFrameworkCore": "8.0.31",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.31"

@@ -1,12 +1,88 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BFA6ADB-1755-8455-E3E4-790E3F4750AC}|Karenderya.Application\\Karenderya.Application.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\karenderya\\backend\\karenderya\\karenderya.application\\karenderya.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BFA6ADB-1755-8455-E3E4-790E3F4750AC}|Karenderya.Application\\Karenderya.Application.csproj|solutionrelative:karenderya.application\\karenderya.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\karenderya\\backend\\karenderya\\karenderya.webapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|solutionrelative:karenderya.webapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\karenderya\\backend\\karenderya\\karenderya.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|solutionrelative:karenderya.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\karenderya\\backend\\karenderya\\karenderya.webapi\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|solutionrelative:karenderya.webapi\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Karenderya.Application",
+              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.Application\\Karenderya.Application.csproj",
+              "RelativeDocumentMoniker": "Karenderya.Application\\Karenderya.Application.csproj",
+              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.Application\\Karenderya.Application.csproj",
+              "RelativeToolTip": "Karenderya.Application\\Karenderya.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-09T05:02:32.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Karenderya.WebApi\\Controllers\\OrderItemController.cs",
+              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Karenderya.WebApi\\Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:02:15.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Karenderya.WebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Karenderya.WebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:02:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "Karenderya.WebApi\\Controllers\\MenuItemController.cs",
+              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "Karenderya.WebApi\\Controllers\\MenuItemController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wDAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T05:01:51.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

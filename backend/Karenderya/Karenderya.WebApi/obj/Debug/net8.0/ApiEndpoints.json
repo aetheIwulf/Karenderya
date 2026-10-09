@@ -28,7 +28,7 @@
   {
     "ContainingType": "Karenderya.WebApi.Controllers.MenuItemController",
     "Method": "GetById",
-    "RelativePath": "api/MenuItem/{id}",
+    "RelativePath": "api/MenuItem/(id)",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -36,7 +36,7 @@
       {
         "Name": "Id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -44,7 +44,7 @@
   {
     "ContainingType": "Karenderya.WebApi.Controllers.MenuItemController",
     "Method": "Update",
-    "RelativePath": "api/MenuItem/{id}",
+    "RelativePath": "api/MenuItem/(id)",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -52,7 +52,7 @@
       {
         "Name": "Id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       },
       {
         "Name": "menuItem",
@@ -65,7 +65,7 @@
   {
     "ContainingType": "Karenderya.WebApi.Controllers.MenuItemController",
     "Method": "Delete",
-    "RelativePath": "api/MenuItem/{id}",
+    "RelativePath": "api/MenuItem/(id)",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -73,7 +73,7 @@
       {
         "Name": "Id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -107,7 +107,7 @@
   {
     "ContainingType": "Karenderya.WebApi.Controllers.OrderController",
     "Method": "GetById",
-    "RelativePath": "api/Order/{id}",
+    "RelativePath": "api/Order/(id)",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -115,7 +115,7 @@
       {
         "Name": "Id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -149,7 +149,7 @@
   {
     "ContainingType": "Karenderya.WebApi.Controllers.OrderItemController",
     "Method": "GetById",
-    "RelativePath": "api/OrderItem/{id}",
+    "RelativePath": "api/OrderItem/(id)",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -157,7 +157,7 @@
       {
         "Name": "Id",
         "Type": "System.Int32",
-        "IsRequired": true
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

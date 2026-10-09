@@ -21,7 +21,7 @@ namespace Karenderya.WebApi.Controllers
             return Ok(result);
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("(id)")]
         public async Task<IActionResult> GetById(int Id)
         {
             var result = await _service.GetByIdAsync(Id);

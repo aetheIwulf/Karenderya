@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\",
+  "WorkspaceRootPath": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BFA6ADB-1755-8455-E3E4-790E3F4750AC}|Karenderya.Application\\Karenderya.Application.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\backend\\karenderya\\karenderya.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFA6ADB-1755-8455-E3E4-790E3F4750AC}|Karenderya.Application\\Karenderya.Application.csproj|solutionrelative:karenderya.application\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1BFA6ADB-1755-8455-E3E4-790E3F4750AC}|Karenderya.Application\\Karenderya.Application.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\karenderya\\backend\\karenderya\\karenderya.application\\karenderya.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1BFA6ADB-1755-8455-E3E4-790E3F4750AC}|Karenderya.Application\\Karenderya.Application.csproj|solutionrelative:karenderya.application\\karenderya.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BFA6ADB-1755-8455-E3E4-790E3F4750AC}|Karenderya.Application\\Karenderya.Application.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\backend\\karenderya\\karenderya.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFA6ADB-1755-8455-E3E4-790E3F4750AC}|Karenderya.Application\\Karenderya.Application.csproj|solutionrelative:karenderya.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\karenderya\\backend\\karenderya\\karenderya.webapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|solutionrelative:karenderya.webapi\\controllers\\orderitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B02C5259-4B3D-98A5-9845-F36B09C0F351}|Karenderya.Infrastructure\\Karenderya.Infrastructure.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\backend\\karenderya\\karenderya.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B02C5259-4B3D-98A5-9845-F36B09C0F351}|Karenderya.Infrastructure\\Karenderya.Infrastructure.csproj|solutionrelative:karenderya.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC65AFDA-23E1-0A8B-8467-FDE08383E19E}|Karenderya.Domain\\Karenderya.Domain.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\backend\\karenderya\\karenderya.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC65AFDA-23E1-0A8B-8467-FDE08383E19E}|Karenderya.Domain\\Karenderya.Domain.csproj|solutionrelative:karenderya.domain\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\backend\\karenderya\\karenderya.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\karenderya\\backend\\karenderya\\karenderya.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|solutionrelative:karenderya.webapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B02C5259-4B3D-98A5-9845-F36B09C0F351}|Karenderya.Infrastructure\\Karenderya.Infrastructure.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\backend\\karenderya\\karenderya.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B02C5259-4B3D-98A5-9845-F36B09C0F351}|Karenderya.Infrastructure\\Karenderya.Infrastructure.csproj|solutionrelative:karenderya.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|d:\\projects\\_.net core\\webapi\\karenderya\\karenderya\\backend\\karenderya\\karenderya.webapi\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0721C1C-5710-F321-636A-80328C4B93E4}|Karenderya.WebApi\\Karenderya.WebApi.csproj|solutionrelative:karenderya.webapi\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IOrderRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\Interfaces\\IOrderRepository.cs",
-              "RelativeDocumentMoniker": "Karenderya.Domain\\Interfaces\\IOrderRepository.cs",
-              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Domain\\Interfaces\\IOrderRepository.cs",
-              "RelativeToolTip": "Karenderya.Domain\\Interfaces\\IOrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T03:48:23.113Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Karenderya.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Karenderya.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T02:31:05.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Application\\Interfaces\\IOrderService.cs",
-              "RelativeDocumentMoniker": "Karenderya.Application\\Interfaces\\IOrderService.cs",
-              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Application\\Interfaces\\IOrderService.cs",
-              "RelativeToolTip": "Karenderya.Application\\Interfaces\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T02:29:33.47Z",
+              "Title": "Karenderya.Application",
+              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.Application\\Karenderya.Application.csproj",
+              "RelativeDocumentMoniker": "Karenderya.Application\\Karenderya.Application.csproj",
+              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.Application\\Karenderya.Application.csproj",
+              "RelativeToolTip": "Karenderya.Application\\Karenderya.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-09T05:02:32.002Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderService.cs",
-              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Application\\Services\\OrderService.cs",
-              "RelativeDocumentMoniker": "Karenderya.Application\\Services\\OrderService.cs",
-              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Application\\Services\\OrderService.cs",
-              "RelativeToolTip": "Karenderya.Application\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Title": "OrderItemController.cs",
+              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\OrderItemController.cs",
+              "RelativeDocumentMoniker": "Karenderya.WebApi\\Controllers\\OrderItemController.cs",
+              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\OrderItemController.cs",
+              "RelativeToolTip": "Karenderya.WebApi\\Controllers\\OrderItemController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T02:29:56.054Z",
+              "WhenOpened": "2026-10-09T05:02:15.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "Karenderya.WebApi\\Controllers\\OrderController.cs",
-              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "Karenderya.WebApi\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\OrderController.cs*",
+              "RelativeToolTip": "Karenderya.WebApi\\Controllers\\OrderController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T02:02:24.745Z",
+              "WhenOpened": "2026-10-09T05:02:09.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "Karenderya.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\backend\\Karenderya\\Karenderya.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "Karenderya.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "MenuItemController.cs",
+              "DocumentMoniker": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\MenuItemController.cs",
+              "RelativeDocumentMoniker": "Karenderya.WebApi\\Controllers\\MenuItemController.cs",
+              "ToolTip": "D:\\Projects\\_.Net Core\\WebAPI\\Karenderya\\Karenderya\\backend\\Karenderya\\Karenderya.WebApi\\Controllers\\MenuItemController.cs",
+              "RelativeToolTip": "Karenderya.WebApi\\Controllers\\MenuItemController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wDAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-09T02:20:10.109Z",
+              "WhenOpened": "2026-10-09T05:01:51.408Z",
               "EditorCaption": ""
             }
           ]
