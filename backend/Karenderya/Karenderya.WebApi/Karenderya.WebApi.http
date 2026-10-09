@@ -1,0 +1,6 @@
+@Karenderya.WebApi_HostAddress = http://localhost:5160
+
+GET {{Karenderya.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

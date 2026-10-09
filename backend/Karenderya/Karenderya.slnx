@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Karenderya.Application/Karenderya.Application.csproj" />
+  <Project Path="Karenderya.Domain/Karenderya.Domain.csproj" />
+  <Project Path="Karenderya.Infrastructure/Karenderya.Infrastructure.csproj" />
+  <Project Path="Karenderya.WebApi/Karenderya.WebApi.csproj" />
+</Solution>
